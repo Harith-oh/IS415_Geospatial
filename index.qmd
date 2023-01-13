@@ -1,5 +1,5 @@
 ---
-title: "IS415-Harith"
+title: "IS415-Hariths"
 ---
 
 This is a Quarto website.
